@@ -27,7 +27,8 @@ Profitability: 76.00%
 ⚠️ Warning: Profitability below 80%. Consider whether this trip is worthwhile.
 
 
-## Versions
+## Notebook Versions
 
-- `v1.0` – Initial release (Portuguese version)
-- `v1.1` – Coming soon: English version with improved structure and input validation
+- 🇵🇹 [Análise de Corridas - PT](Análise%20de%20corridas%20-%20PT.ipynb)
+- 🇬🇧 [Trip Analyzer - EN](Trip%20analyzer-en.ipynb)
+
